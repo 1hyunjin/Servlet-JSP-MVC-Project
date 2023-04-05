@@ -75,4 +75,8 @@
 
 [Front Controller_V5](https://www.notion.so/Front-Controller_V5-87812d35a09e4d26a14889fc69a98a7b)
 
+notion 
+servlet, JSP : https://leah-space.notion.site/JSP-94cc62a805c54e85b9051d2c24fbba06
+MVC Pattern : https://leah-space.notion.site/MVC-dced10ed87064c7389c7cdc89d716d3b
+FrontController : 위 버전들 클릭 
 강의 : https://www.inflearn.com/course/%EC%8A%A4%ED%94%84%EB%A7%81-mvc-1/dashboard
